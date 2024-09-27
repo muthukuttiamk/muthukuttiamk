@@ -60,9 +60,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="35" height="35"/>
-  </a>
+  </a> -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35"/>
   </a>
@@ -82,3 +82,4 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical" alt="GitHub Trophies" width="400"/>
 </p>
+
